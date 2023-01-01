@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void main() {
   int num1,num2,opt;
   printf("Enter the first Integer :");
@@ -11,7 +12,7 @@ void main() {
     scanf("%d",&opt);
     switch(opt) {
       case 1:
-        printf("The Addition of  %d and %d is: %d\n",num1,num2,num1+num2);
+        printf("The Addition of the numbers %d and %d is: %d\n",num1,num2,num1+num2);
         break;
         
       case 2:
