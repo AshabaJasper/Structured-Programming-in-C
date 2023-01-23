@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#calculator in c
 void main() {
   int num1,num2,opt;
   printf("Enter the first Integer :");
