@@ -25,6 +25,7 @@ int read_line(char str[], int n);
 // such as "racecar".
 //
 // Parameters:
+//will update
 //   message: a null-terminated string to be checked for palindromicity
 //
 // Returns:
