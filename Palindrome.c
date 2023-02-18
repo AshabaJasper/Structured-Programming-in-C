@@ -3,6 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 
+//
 // A constant macro defining the maximum length of the input string
 #define MAX_LEN 100
 
